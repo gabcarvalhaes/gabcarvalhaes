@@ -1,16 +1,24 @@
-### Hi there 👋
+# Oi, sou Gabriel Carvalhaes! 📱
+### Desenvolvedor e Especialista em Cibersegurança em formação
+▶️ Cursando Sistemas de Informação na Universidade Veiga de Almeida (UVA)
 
-<!--
-**gabcarvalhaes/gabcarvalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+▶️ Usando a web pra estudar programação, hacking ético e outras tecnologias 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+▶️ Pretendo atuar profissionalmente na área de cibersegurança 
+
+
+💻         🖥️
+   
+   
+      
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcarvalhaes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcarvalhaes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
