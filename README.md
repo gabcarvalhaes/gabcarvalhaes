@@ -10,8 +10,9 @@
 
 
 💻         🖥️
-   
-   
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalhaes-a37348183/"/> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/CyberClient" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/2/#inbox" />
+
       
 
 
@@ -22,3 +23,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcarvalhaes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
