@@ -4,10 +4,7 @@
 
 
 
-▶️ Currently studying Python and ethical hacking fundamentals
-
-
-▶️ Usando a web pra estudar programação, hacking ético e outras tecnologias 
+▶️ Currently studying Python and ethical hacking fundamentals 
 
 
 💻         🖥️
