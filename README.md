@@ -1,10 +1,10 @@
 # Oi, sou Gabriel Carvalhaes! 📱
 ### Desenvolvedor e Especialista em Cibersegurança em formação
 
-▶️ Analista de Segurança da Informação Júnior na Cadmus
+▶️ Analista de Segurança da Informação na Cadmus
 
 
-▶️ Cursando Sistemas de Informação na Universidade Veiga de Almeida (UVA)
+▶️ Cursando Redes de Computadores na PUC Minas
 
 
 ▶️ Usando a web pra estudar programação, hacking ético e outras tecnologias 
