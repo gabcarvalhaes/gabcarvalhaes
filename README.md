@@ -1,10 +1,10 @@
 # Hi, I'm Gabriel Carvalhaes! 📱
 ### Working to become a Cybersecurity Specialist!
-▶️ I'm majoring in Information Systems at Veiga de Almeida University (UVA)
+▶️ I'm majoring in Computer Networks at PUC Minas
 
+▶️ Cyber Security Analyst at Cadmus
 
-
-▶️ Currently studying Python and ethical hacking fundamentals 
+▶️ Studying pentest techniques, network fundamentals and OSINT! 
 
 
 💻         🖥️
