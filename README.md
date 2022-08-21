@@ -1,5 +1,5 @@
 # Oi, sou Gabriel Carvalhaes! 📱
-### Desenvolvedor e Especialista em Cibersegurança em formação
+### Especialista em Cibersegurança em formação
 
 ▶️ Analista de Segurança da Informação na Cadmus
 
