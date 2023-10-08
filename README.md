@@ -2,9 +2,8 @@
 ### Working to become a Cybersecurity Specialist!
 ▶️ I'm majoring in Computer Networks at PUC Minas
 
-▶️ Cyber Security Analyst at Cadmus
-
-▶️ Studying pentest techniques, network fundamentals and OSINT! 
+▶️ Cyber Security Analyst at Bricon
+ 
 
 
 💻         🖥️
