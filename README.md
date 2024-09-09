@@ -1,16 +1,15 @@
-# Oi, sou Gabriel Carvalhaes! 📱
+# Hi, I'm Gabriel! 📱
 
 
-▶️ Cyber Security Sales Engineer na Bricon IT Solutions
+▶️ Cyber Security Sales Engineer at Bricon IT Solutions
 
 
-▶️ Fascinando por forense e resposta à incidentes cibernéticos
+▶️ Fascinated by DFIR
 
 
 💻         🖥️
 
 
-<a href="https://github.com/gabcarvalhaes/gabcarvalhaes/tree/english"><img src=https://img.shields.io/badge/English%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=perfil&amp;logoColor=black&amp;color=red" data-canonical-src="https://img.shields.io/badge/English%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=perfil&amp;logoColor=black&amp;color=red" style="max-width:100%;">
 
 <a href=https://www.linkedin.com/in/gabriel-carvalhaes-a37348183/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/gabriel-carvalhaes-a37348183/](https://www.linkedin.com/in/gabrielcarvalhaes10/)"/>  
 
