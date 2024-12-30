@@ -1,24 +1,19 @@
-# Hi, I'm Gabriel! 📱
+<div align="left">
+  <samp>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8D8D8D&width=435&lines=%3E+whoami"> <br>
+    ⬝ Cyber Security Sales Engineer <br>
+    ⬝ pt/br + eng <br>
+  </samp>
+  
+  <br>
 
+[![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](gabriel.carvalhaes@pm.me)
+[![netXterminal](https://img.shields.io/badge/netXterminal-7600bc?style=for-the-badge&logoColor=white)](https://netxterminal.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcarvalhaes10/)
 
-▶️ Cyber Security Sales Engineer at Bricon IT Solutions
+<img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" alt="Badge" width="85">
 
-
-▶️ Fascinated by DFIR
-
-
-💻         🖥️
-
-
-
-<a href=https://www.linkedin.com/in/gabrielcarvalhaes10/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/gabrielcarvalhaes10/](https://www.linkedin.com/in/gabrielcarvalhaes10/)"/>  
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcarvalhaes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcarvalhaes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
