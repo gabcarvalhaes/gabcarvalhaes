@@ -11,7 +11,9 @@
 [![netXterminal](https://img.shields.io/badge/netXterminal-7600bc?style=for-the-badge&logoColor=white)](https://netxterminal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcarvalhaes10/)
 
-<img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" alt="Badge" width="85">
+<a href="https://www.credly.com/badges/6b1e296c-13d0-41a2-a317-68b5e4d2fba7/public_url">
+  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" alt="Badge" width="85">
+</a>
 
 <br>
 <br>
