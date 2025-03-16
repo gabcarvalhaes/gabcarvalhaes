@@ -7,15 +7,13 @@
   
   <br>
 
-[![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](gabriel.carvalhaes@pm.me)
-[![netXterminal](https://img.shields.io/badge/netXterminal-7600bc?style=for-the-badge&logoColor=white)](https://netxterminal.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcarvalhaes10/)
-
-<a href="https://www.credly.com/badges/6b1e296c-13d0-41a2-a317-68b5e4d2fba7/public_url">
-  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" alt="Badge" width="85">
-</a>
-
-<br>
+[![netxterminal](https://img.shields.io/badge/netXterminal-7600bc?style=for-the-badge&logoColor=white)](https://netxterminal.com)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcarvalhaes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<samp> Want to get in touch? </samp>
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcarvalhaes10/)
+[![Proton Drive](https://img.shields.io/badge/Proton%20Mail-6d4aff?style=Flat&logo=proton%20drive&logoColor=white)](mailto:gabriel.carvalhaes@pm.me)
