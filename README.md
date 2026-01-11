@@ -7,11 +7,6 @@
   
   <br>
 
-[![netxterminal](https://img.shields.io/badge/netXterminal-7600bc?style=for-the-badge&logoColor=white)](https://netxterminal.com)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcarvalhaes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
 <samp> Want to get in touch? </samp>
 
